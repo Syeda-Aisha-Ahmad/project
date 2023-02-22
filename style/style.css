@@ -1,0 +1,52 @@
+body {
+    background-color: powderblue;
+}
+
+.right-text {
+    text-align: right;
+    font-weight: bold;
+}
+
+.google-heading {
+    text-align: center;
+    font-weight: lighter;
+}
+
+form {
+    text-align: center;
+}
+
+.center-images {
+    text-align: center;
+}
+
+.right-Customize {
+    text-align: right;
+}
+
+.right-Customize-text {
+    color: white;
+    background-color: gray;
+}
+
+.g {
+    color: dodgerblue;
+}
+
+.o-e {
+    color: tomato;
+}
+
+#o {
+    color: gold;
+}
+
+#l {
+    color: green;
+}
+
+
+.p {
+    background-color: pink;
+    text-align: center;
+}
