@@ -1,52 +1,82 @@
-body {
-    background-color: powderblue;
-}
-
-.right-text {
-    text-align: right;
-    font-weight: bold;
-}
-
-.google-heading {
+.heading {
     text-align: center;
-    font-weight: lighter;
+    font-size: 70px;
 }
 
-form {
-    text-align: center;
+.red {
+    background-color: salmon;
+    height: 20px;
+    width: 40%;
+    display: inline-block;
 }
 
-.center-images {
-    text-align: center;
+.green {
+    background-color: olivedrab;
+    height: 20px;
+    width: 19%;
+    display: inline-block;
 }
 
-.right-Customize {
-    text-align: right;
+.blue {
+    background-color: cornflowerblue;
+    height: 20px;
+    width: 40%;
+    display: inline-block;
 }
 
-.right-Customize-text {
-    color: white;
-    background-color: gray;
+.content {
+    font-size: 20px;
+    border: 1px solid black;
+    display: inline-block;
+    width: 24%;
 }
 
-.g {
-    color: dodgerblue;
+.image {
+    width: 100%;
+    height: 300px;
 }
 
-.o-e {
-    color: tomato;
+.red2 {
+    background-color: salmon;
+    height: 100px;
+    width: 38%;
+    display: inline-block;
+    border: 10px double crimson;
 }
 
-#o {
-    color: gold;
+.green2 {
+    background-color: olivedrab;
+    height: 100px;
+    width: 17%;
+    display: inline-block;
+    border: 10px solid green;
 }
 
-#l {
-    color: green;
+.blue2 {
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 38%;
+    display: inline-block;
+    border: 10px dashed blue;
 }
 
+.red3 {
+    background-color: salmon;
+    height: 20px;
+    width: 40%;
+    display: inline-block;
+}
 
-.p {
-    background-color: pink;
-    text-align: center;
+.green3 {
+    background-color: olivedrab;
+    height: 20px;
+    width: 40%;
+    display: inline-block;
+}
+
+.blue3 {
+    background-color: cornflowerblue;
+    height: 20px;
+    width: 40%;
+    display: inline-block;
 }
